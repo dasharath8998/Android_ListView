@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="states">
+        <item>Andhra Pradesh</item>
+        <item>Bihar</item>
+        <item>Delhi</item>
+        <item>Gujarat</item>
+        <item>Hariyana</item>
+        <item>Telengana</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Goa</item>
+        <item>UP</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Tamil Nadu</item>
+    </string-array>
+</resources>
